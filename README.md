@@ -4,7 +4,7 @@ Supplementary figures for Zhong <i>et al</i>. Long-term effect of plastic feedin
 
 Interactive plots generated with R package "plotly".
 
-To view the figure, please click the file below for online preview or download the file to your local device to open with web browser.
+To view the figure, please click on the file below for online preview or download the file and open with your web browser.
 
 [mortality.html](https://rawcdn.githack.com/xieyichun50/Plastic_Tenebrio_molitor/09e1075f54d3975fdbd099e11c5ba66d15968874/mortality.html) -- Mortality over time with different diet
 
