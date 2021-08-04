@@ -6,8 +6,8 @@ Interactive plots generated with R package "plotly".
 
 To view the figure, please download the file to your local device and open them with web browser.
 
-[mortality.html](https://github.com/xieyichun50/Plastic_Tenebrio_molitor/blob/main/mortality.html) -- Mortality over time with different diet
+[mortality.html](https://rawcdn.githack.com/xieyichun50/Plastic_Tenebrio_molitor/09e1075f54d3975fdbd099e11c5ba66d15968874/mortality.html) -- Mortality over time with different diet
 
-[weight.html](https://github.com/xieyichun50/Plastic_Tenebrio_molitor/blob/main/weight.html) -- Relative weight of larvae over time with different diet
+[weight.html](https://rawcdn.githack.com/xieyichun50/Plastic_Tenebrio_molitor/09e1075f54d3975fdbd099e11c5ba66d15968874/weight.html) -- Relative weight of larvae over time with different diet
 
-[consumption.html](https://github.com/xieyichun50/Plastic_Tenebrio_molitor/blob/main/consumption.html) -- Cumulative plastic consumption over time with different diet
+[consumption.html](https://rawcdn.githack.com/xieyichun50/Plastic_Tenebrio_molitor/09e1075f54d3975fdbd099e11c5ba66d15968874/consumption.html) -- Cumulative plastic consumption over time with different diet
