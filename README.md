@@ -1,6 +1,8 @@
 # Plastic_Tenebrio_molitor
 
-Supplementary figures for Zhong <i>et al</i>. Long-term effect of plastic feeding on growth and transcriptomic response of mealworms (<i>Tenebrio molitor</i> L.)
+Supplementary figures for 
+Zhong, Z., Nong, W., Xie, Y., Hui, J.H.L., Chu, L.M., 2022. Long-term effect of plastic feeding on growth and transcriptomic response of mealworms (<i>Tenebrio molitor</i> L.). Chemosphere 287, 132063. https://doi.org/10.1016/J.CHEMOSPHERE.2021.132063
+
 
 Interactive plots generated with R package "plotly". 
 To view the figure, please click on the file below for online preview or download the file and open with your web browser.
